@@ -1,2 +1,2 @@
 # GitDemoRepo
-build by Cody Harmon
+built by Cody Harmon
